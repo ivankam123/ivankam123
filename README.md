@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/">Ivan Kam</a>. I am a front-end developer who is passionate in web development & design! 
+Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/" target="_blank">Ivan Kam</a>. I am a front-end developer who is passionate in web development & design! 
 
 <ul>
   <li>
