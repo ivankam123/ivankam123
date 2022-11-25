@@ -4,7 +4,7 @@ Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/">Ivan Kam</a>
 
 <ul>
   <li>
-    <p>&#128187 I am very interested in creating solutions for problems through software designs!
+    <p>&#127750 I am very interested in creating solutions for problems through software designs!
   </li>
   <li>
     <p>&#128237 <b>How to reach me</b>: Connect with me on <a href="https://www.linkedin.com/in/ivan-kam00/">Linkedin</a>, or visit my <a href="https://ivodesign.link/">Portfolio Site</a>!
