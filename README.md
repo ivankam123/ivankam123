@@ -14,7 +14,7 @@ Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/">Ivan Kam</a>
   </li>
 </ul>
 
-<h3>Languages and Tools</h1>
+<h3>Languages and Tools</h3>
 <!--
 **ivankam123/ivankam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
