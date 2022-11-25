@@ -16,12 +16,12 @@ Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/">Ivan Kam</a>
 
 <h3>Languages and Tools</h3>
 <div display="flex" >
-  <div>
+
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px" height="50px">
-  </div>
-<div padding-right="100px">
+
+
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" height="50px">
-  </div>
+
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" height="50px">
 
     <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" width="50px" height="50px">
