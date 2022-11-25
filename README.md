@@ -15,7 +15,7 @@ Hello, my name is <a href="https://www.linkedin.com/in/ivan-kam00/">Ivan Kam</a>
 </ul>
 
 <h3>Languages and Tools</h3>
-<div display="flex" style="gap:1rem">
+<div display="flex" style="gap: 5rem">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px" height="50px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" height="50px">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" height="50px">
